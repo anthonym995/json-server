@@ -155,6 +155,20 @@ db.json
     }
   ]
 }
+
+{
+      "id": 1,
+      "firstName": "Anthony",
+      "middleName": "M",
+      "lastName": "suresh",
+      "gender": "Male",
+      "email": "manthonysuresh@gmail.com",
+      "mobile": "9943567950",
+      "dob": "1995-05-28",
+      "address": "363,  south street, Elayankanni, Tiruvannamalai, Tamil Nadu- 606753",
+      "cob": "India",
+      "active": true
+    }
 ```
 
 - Push your work
